@@ -1,0 +1,1 @@
+This is a communication sequence generator that takes the constructed adjacency matrix as input, and then the scheduling process can be seen in the console window, and the scheduling sequence will be generated locally.
